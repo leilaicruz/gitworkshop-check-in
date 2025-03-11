@@ -3,6 +3,7 @@
 John
 # favorite color
 Blue
-# favorite animal
+
+# Favorite animal
 
 armadillo
