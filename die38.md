@@ -1,4 +1,4 @@
 # name
-Diego
+**Diego**
 # favorite color
-green
+*green*
